@@ -38,7 +38,7 @@ namespace Skillmine.DelegateStudy
     }
     public class Program
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             Test t1 = new Test();
             Mydell d1 = new Mydell(t1.ME1);
@@ -56,6 +56,6 @@ namespace Skillmine.DelegateStudy
             string str = d2.Invoke("Pranit");
             Console.WriteLine(str);
         }
-
+*/
     }
 }

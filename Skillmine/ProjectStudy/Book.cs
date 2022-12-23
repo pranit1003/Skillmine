@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Skillmine.ProjectStudy
 {
     public enum BookLibrary { Adventure, Horror, Crime }
-    class Book
+    /*class Book
     {
         public BookLibrary BookLibrary;
         public int BookId { get; set; }
@@ -16,7 +16,7 @@ namespace Skillmine.ProjectStudy
 
         public double BookPrice { get; set; }
 
-    }
+    }*/
 
     class Catogary
     {

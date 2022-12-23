@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DelegateStudy\Bank.cs" />
     <Compile Include="DelegateStudy\Stud.cs" />
     <Compile Include="DelegateStudy\Test.cs" />
     <Compile Include="ExceptionStudy\ExceptionDemo1.cs" />
