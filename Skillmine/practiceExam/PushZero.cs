@@ -36,7 +36,7 @@ namespace Skillmine.practiceExam
             {
                 for( int j = i-1; j>= 0; j--)
                 {
-                    if(a[j] ==0 )
+                    if(a[j] == 0 )
                     {
                         int temp = a[i];
                         a[i] = a[j];
