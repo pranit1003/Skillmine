@@ -58,7 +58,7 @@ namespace Skillmine.DelegateStudy.DelegateStudy
 
         public class Banking
         {
-            static void Main(string[] args)
+            /*static void Main(string[] args)
             {
                 Bank b = new Bank(5000);
                 b.Insufficient += new MyDelegate(Message.InsufficientBalance);
@@ -76,7 +76,7 @@ namespace Skillmine.DelegateStudy.DelegateStudy
                 b.Debit(6000);
                 Console.WriteLine(b);
             }
-
+*/
         }
     }
 

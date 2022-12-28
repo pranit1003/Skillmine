@@ -82,6 +82,7 @@
     <Compile Include="ProjectStudy\Products.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticStudy\Student.cs" />
+    <Compile Include="threadStudy\Test.cs" />
     <Compile Include="VariousWaytoIntialiseInstanceVariable\Student.cs" />
   </ItemGroup>
   <ItemGroup>
