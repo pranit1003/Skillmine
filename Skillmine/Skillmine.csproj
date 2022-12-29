@@ -82,6 +82,10 @@
     <Compile Include="ProjectStudy\Products.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticStudy\Student.cs" />
+    <Compile Include="StringStudy\CountValue.cs" />
+    <Compile Include="StringStudy\CountValueString.cs" />
+    <Compile Include="StringStudy\RemoveDuplicate.cs" />
+    <Compile Include="StringStudy\ReverseString.cs" />
     <Compile Include="threadStudy\Test.cs" />
     <Compile Include="VariousWaytoIntialiseInstanceVariable\Student.cs" />
   </ItemGroup>

@@ -33,7 +33,7 @@ namespace Skillmine.threadStudy
     }
     public class Program
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             Test obj = new Test();
             Thread T1 = new Thread(new ThreadStart(obj.M1));
@@ -47,6 +47,6 @@ namespace Skillmine.threadStudy
             T1.Join();
             // T1.Priority = ThreadPriority.Lowest;
             // T2.Priority = ThreadPriority.Highest;
-        }
+        }*/
     }
 }
