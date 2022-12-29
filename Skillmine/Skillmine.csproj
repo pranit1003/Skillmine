@@ -84,8 +84,12 @@
     <Compile Include="StaticStudy\Student.cs" />
     <Compile Include="StringStudy\CountValue.cs" />
     <Compile Include="StringStudy\CountValueString.cs" />
+    <Compile Include="StringStudy\DisplayAppearanceOfElement.cs" />
     <Compile Include="StringStudy\RemoveDuplicate.cs" />
+    <Compile Include="StringStudy\ReverseEachWordOfSentence.cs" />
     <Compile Include="StringStudy\ReverseString.cs" />
+    <Compile Include="StringStudy\TotalCountOfElement.cs" />
+    <Compile Include="StringStudy\TotalCountOfNum.cs" />
     <Compile Include="threadStudy\Test.cs" />
     <Compile Include="VariousWaytoIntialiseInstanceVariable\Student.cs" />
   </ItemGroup>
