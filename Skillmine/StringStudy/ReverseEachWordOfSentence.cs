@@ -8,7 +8,7 @@ namespace Skillmine.StringStudy
 {
     class ReverseEachWordOfSentence
     {
-        string str;
+        /*string str;
         public string ReverseString(string st4r)
         {   
             string  result = " ";
@@ -23,8 +23,8 @@ namespace Skillmine.StringStudy
             Console.WriteLine("reverse string is : " + result);
 
             return result;
-        }
-        static void Main(string[] args)
+        }*/
+        /*static void Main(string[] args)
         {
             ReverseEachWordOfSentence r = new ReverseEachWordOfSentence();
             string result = string.Empty;
@@ -43,6 +43,6 @@ namespace Skillmine.StringStudy
                     result = result + r.ReverseString(arr[i]) + " ";
                 }
             }
-        }
+        }*/
     }
 }

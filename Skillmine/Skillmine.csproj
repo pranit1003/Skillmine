@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayPractice\SortExam.cs" />
     <Compile Include="DelegateStudy\Bank.cs" />
     <Compile Include="DelegateStudy\Stud.cs" />
     <Compile Include="DelegateStudy\Test.cs" />
@@ -52,6 +53,7 @@
     <Compile Include="ExceptionStudy\NullNameException.cs" />
     <Compile Include="practiceExam\AddString.cs" />
     <Compile Include="practiceExam\AnagramExam.cs" />
+    <Compile Include="practiceExam\Animal.cs" />
     <Compile Include="practiceExam\Bank.cs" />
     <Compile Include="practiceExam\Book.cs" />
     <Compile Include="practiceExam\CheckSum.cs" />
@@ -69,6 +71,7 @@
     <Compile Include="practiceExam\Occurancecs.cs" />
     <Compile Include="practiceExam\Palindram.cs" />
     <Compile Include="practiceExam\Player.cs" />
+    <Compile Include="practiceExam\PrimeNumb.cs" />
     <Compile Include="practiceExam\Program.cs" />
     <Compile Include="practiceExam\PushZero.cs" />
     <Compile Include="practiceExam\RefKeyword.cs" />
@@ -79,7 +82,11 @@
     <Compile Include="practiceExam\VarKeyword.cs" />
     <Compile Include="ProjectStudy\Book.cs" />
     <Compile Include="ProjectStudy\Departments.cs" />
+    <Compile Include="ProjectStudy\MainClassOfNewProject.cs" />
+    <Compile Include="ProjectStudy\NewProject.cs" />
     <Compile Include="ProjectStudy\Products.cs" />
+    <Compile Include="ProjectStudy\Student.cs" />
+    <Compile Include="ProjectStudy\StudentMainClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticStudy\Student.cs" />
     <Compile Include="StringStudy\CountValue.cs" />
@@ -88,6 +95,7 @@
     <Compile Include="StringStudy\RemoveDuplicate.cs" />
     <Compile Include="StringStudy\ReverseEachWordOfSentence.cs" />
     <Compile Include="StringStudy\ReverseString.cs" />
+    <Compile Include="StringStudy\StringSplitMethod.cs" />
     <Compile Include="StringStudy\TotalCountOfElement.cs" />
     <Compile Include="StringStudy\TotalCountOfNum.cs" />
     <Compile Include="threadStudy\Test.cs" />
